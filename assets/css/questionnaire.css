@@ -1,0 +1,17 @@
+.left_card {
+  grid-area: "left_card";
+  padding: 20px;
+}
+
+.right_card {
+  grid-area: "right_card";
+  padding: 20px;
+}
+
+.question {
+  display: grid;
+  grid-template-columns: 500px 500px;
+  grid-gap: 40px;
+}
+
+/*# sourceMappingURL=questionnaire.css.map */
